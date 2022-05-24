@@ -2,6 +2,8 @@ This project is made of background images that expand when clicked on.
 
 It uses Flexbox, CSS transitions and JavaScript
 
+Images for this project are collected from UnSplash - there is no API here
+
 This could be converted to be used in (for example) the following ways
 
-- 
+- portfolio for artists/ photographers
